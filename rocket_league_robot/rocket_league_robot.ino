@@ -1,20 +1,7 @@
 /*************************************************************************************************************************************************************************
    - Author           :THE CREW team                   *
    - Robot name       :FURY                            *
-   - Supervising DR   : Mahmoud Saafan                 *
-   - Team mempers     : 1- Hazem Alsayed Alkhamisi     *
-                        2- Ahmed Mohamed Fouad         *
-                        3- Mariam Awad                 *
-                        4- Martena Kamel               *
-                        5- Galal Mohamed               *
-                        6- Bavly Adel                  *
-                        7- Andrew Hany                 *
-                        8- Hazem Mamdoh Abolila        *
-                        9- Farah Hezma                 *
-                        10- Bahy Oda                   *
-                        11- Ahd Alaa El-dain           *
-                        12- Fatma Osama                *
-                        13- Hazem Alaa                 *
+   - Code writer      : 1- Hazem Alsayed Alkhamisi     *
    - Main purpose     : Robotic Application            *
                         (rocket league robot)          *
    - Date             : 17/12/2021                     *
