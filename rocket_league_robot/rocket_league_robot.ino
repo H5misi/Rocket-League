@@ -1,7 +1,7 @@
 /*************************************************************************************************************************************************************************
-   - Author           :THE CREW team                   *
-   - Robot name       :FURY                            *
-   - Code writer      : 1- Hazem Alsayed Alkhamisi     *
+   - Author           : THE CREW team                  *
+   - Robot name       : FURY                           *
+   - Code writer      : Hazem Alsayed Alkhamisi        *
    - Main purpose     : Robotic Application            *
                         (rocket league robot)          *
    - Date             : 17/12/2021                     *
